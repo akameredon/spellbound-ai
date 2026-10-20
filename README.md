@@ -5,7 +5,7 @@ A playful worksheet-to-game learning companion. **Built with Bolt.new** (project
 > Current MVP: quiz generation from pasted study notes, interactive multiple-choice games, mascot selection, browser-native voice playback, and a Supabase RLS schema foundation. Worksheet OCR, live Supabase persistence, ElevenLabs, and payments are not connected yet.
 
 ## Live demo
-After the first successful GitHub Pages deployment, visit: https://akameredon.github.io/spellbound-ai/
+GitHub Pages URL: https://akameredon.github.io/spellbound-ai/ (available after the Actions deployment succeeds).
 
 ## Run locally
 
