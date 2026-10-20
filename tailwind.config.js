@@ -1,0 +1,2 @@
+/** @type {import('tailwindcss').Config} */
+export default { content: ['./index.html', './src/**/*.{js,jsx}'], theme: { extend: { colors: { spell: { purple: '#6657e8', ink: '#25233d', mint: '#d9f8e9', peach: '#ffe5d8' } }, boxShadow: { soft: '0 12px 35px rgba(50, 42, 100, .08)' } } }, plugins: [] };
